@@ -9,7 +9,7 @@ export function animations() {
     { scale: [0, 1] },
     {
       delay: stagger(0.1),
-      duration: 0.5,
+      duration: 0.3,
       easing: [0.22, 0.03, 0.26, 1],
     }
   );
